@@ -1,0 +1,23 @@
+truk1.jpg size(1070, 770)
+
+truk2.jpg = size(1070, 785)
+
+truk3.jpg => resize(1070,795)
+
+truk4.jpg = resize(620,750)
+
+truk7.jpg = size(1000,795)
+
+truk8.jpg = size(1000,795)
+
+truk_new12.jpg = size(600,1200)
+
+truk_new13.jpg = size(600,785)
+
+truk_new14.jpg = size(600,790)
+
+IMG_20220617_095433.jpg = size(600,500) => akurasi 100%, hasil: D 8261 EV
+                          size(850, 450) => akurasi - 100%, hasil: LD. 8261 EV
+                          size(850, 450) => akurasi - 100%, hasil : D. “8261 JEW
+
+IMG_20220617_095437.jpg = size(850,450) => akurasi -100%, hasil: D 8261. EV 1
